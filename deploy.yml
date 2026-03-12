@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: co1
-          image: shaikmustafa/paytm:bu
+          image: shaikmustafa/cycle
           ports:
             - containerPort: 80
